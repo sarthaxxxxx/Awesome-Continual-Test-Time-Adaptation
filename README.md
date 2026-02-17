@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2510.XXXXX-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2510.XXXXX) -->
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg?style=flat-square)](https://doi.org/10.5281/zenodo.18665186)
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg?style=flat-square)](https://github.com/Naereen/badges)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
