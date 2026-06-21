@@ -9,11 +9,8 @@
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/github/stars/your-org/your-repo?style=social" alt="Stars">
-</p>
 
-*A curated, continually-updated list of papers, resources, and future directions on **Continual Test-Time Adaptation (CTTA)** (as of Feb 2026).*
+*A curated list of papers, resources, and future directions on **Continual Test-Time Adaptation (CTTA)** (as of Feb 2026).*
 
 </div>
 
