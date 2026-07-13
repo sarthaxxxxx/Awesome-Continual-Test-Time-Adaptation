@@ -4,24 +4,17 @@
 ### Methods, Benchmarks, and Future Directions
 
 <p>
-  <a href="https://zenodo.org/records/20766591"><img src="https://img.shields.io/badge/📄_Paper-arXiv-b31b1b.svg?style=for-the-badge" alt="Paper"></a>
+  <a href="https://arxiv.org/abs/2607.08164"><img src="https://img.shields.io/badge/📄_Paper-arXiv-b31b1b.svg?style=for-the-badge" alt="Paper"></a>
+  <img src="https://img.shields.io/badge/Accepted-TMLR-blue.svg?style=for-the-badge" alt="Accepted to TMLR">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-success.svg?style=for-the-badge" alt="Maintenance">
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
 </p>
 
 
-*A curated list of papers, resources, and future directions on **Continual Test-Time Adaptation (CTTA)** (as of Feb 2026).*
+*A curated list of papers, resources, and future directions on **Continual Test-Time Adaptation (CTTA) for Computer Vision**.*
 
 </div>
 
-<br>
-
-> [!NOTE]
-> 🚧 **This repository is currently a Work in Progress.** 🚧
->
-> We are actively updating the survey and taxonomy. Contributions and suggestions are welcome — see [Contributing](#-contributing) below!
-
-<br>
 
 ## 📚 Table of Contents
 
@@ -114,7 +107,7 @@ Edge and embedded devices have limited memory and compute budgets. Adaptation st
 
 ## 🗺️ Unified Taxonomy
 
-The figure below illustrates the growth of CTTA research over the years.
+The figure below illustrates the growth of CTTA research over the years (until Feb 2026).
 
 <p align="center">
   <img src="assets/img/ctta_trend.png" width="80%" alt="CTTA Growth">
@@ -154,6 +147,7 @@ We list papers that discuss key paradigms: **(1)** entropy minimization, which e
 8. [TEA: Test-time Energy Adaptation](https://arxiv.org/abs/2311.14402) — *CVPR 2024*
 9. [Ranked Entropy Minimization for Continual Test-Time Adaptation](https://arxiv.org/abs/2505.16441) — *ICML 2025*
 10. [Lifelong Test-Time Adaptation via Online Learning in Tracked Low-Dimensional Subspace](https://openreview.net/pdf?id=NFvAa2hNzH) — *NeurIPS 2025*
+11. [Blocking the Leakage: Manifold-Aware Gradient Projection for Long-Horizon Test-Time Adaptation](https://openreview.net/pdf?id=tXG1MOcigF) - *CVPR 2026*
 
 </details>
 
@@ -179,7 +173,7 @@ We list papers that discuss key paradigms: **(1)** entropy minimization, which e
 </details>
 
 <details open>
-<summary><b>🧬 Topology Preservation</b></summary>
+<summary><b>🧬 Topology Consistency</b></summary>
 <br>
 
 1. [Maintaining Consistent Inter-Class Topology in Continual Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2025/papers/Ni_Maintaining_Consistent_Inter-Class_Topology_in_Continual_Test-Time_Adaptation_CVPR_2025_paper.pdf) — *CVPR 2025*
@@ -231,7 +225,9 @@ We include papers that modify the model architecture. This includes teacher-stud
 
 1. [Continual Test-Time Domain Adaptation](https://arxiv.org/abs/2203.13591) — *CVPR 2022*
 2. [Robust Mean Teacher for Continual and Gradual Test-Time Adaptation](https://openaccess.thecvf.com/content/CVPR2023/papers/Dobler_Robust_Mean_Teacher_for_Continual_and_Gradual_Test-Time_Adaptation_CVPR_2023_paper.pdf) — *CVPR 2023*
-3. [C-CoTTA: Controllable Continual Test-Time Adaptation](https://arxiv.org/abs/2405.14602) — *arXiv 2024*
+3. [Parameter-selective continual test-time adaptation](https://openaccess.thecvf.com/content/ACCV2024/html/Tian_Parameter-Selective_Continual_Test-Time_Adaptation_ACCV_2024_paper.html) - *ACCV 2024*
+4. [C-CoTTA: Controllable Continual Test-Time Adaptation](https://arxiv.org/abs/2405.14602) — *ICME 2025*
+5. [Test-time distillation for continual model adaptation](https://openaccess.thecvf.com/content/CVPR2026F/html/Chen_Test-Time_Distillation_for_Continual_Model_Adaptation_CVPRF_2026_paper.html) - *CVPR 2026*
 
 </details>
 
@@ -243,6 +239,7 @@ We include papers that modify the model architecture. This includes teacher-stud
 2. [ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation](https://arxiv.org/abs/2306.04344) — *ICLR 2024*
 3. [Efficient Test-Time Adaptation of Vision-Language Models](https://arxiv.org/abs/2403.18293) — *CVPR 2024*
 4. [Buffer Layers for Test-Time Adaptation](https://openreview.net/pdf?id=sSZ9OM08KT) — *NeurIPS 2025*
+5. [The golden subspace: Where efficiency meets generalization in continual test-time adaptation](https://openaccess.thecvf.com/content/CVPR2026/html/Lai_The_Golden_Subspace_Where_Efficiency_Meets_Generalization_in_Continual_Test-Time_CVPR_2026_paper.html) - *CVPR 2026*
 
 </details>
 
@@ -262,6 +259,7 @@ We include papers that modify the model architecture. This includes teacher-stud
 <br>
 
 1. [Continual-MAE: Adaptive Distribution Masked Autoencoders for Continual Test-Time Adaptation](https://arxiv.org/abs/2312.12480) — *CVPR 2024*
+2. [Family Matters: A Systematic Study of Spatial vs. Frequency Masking for Continual Test-Time Adaptation](https://openreview.net/forum?id=pBI64qNXHp) - *TMLR 2026*
 
 </details>
 
