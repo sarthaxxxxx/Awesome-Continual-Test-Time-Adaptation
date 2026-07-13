@@ -1,14 +1,9 @@
 <div align="center">
 
-<!-- Hero Section -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=🌊%20Awesome%20Continual%20Test-Time%20Adaptation&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Methods%20·%20Benchmarks%20·%20Future%20Directions&descSize=16&descAlignY=55&descColor=e0e0e0&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=🌊%20Awesome%20Continual%20Test-Time%20Adaptation&fontSize=30&fontColor=ffffff&fontAlignY=35&desc=Methods%20·%20Benchmarks%20·%20Future%20Directions&descSize=16&descAlignY=55&descColor=e0e0e0&animation=fadeIn" width="100%" alt="Header">
-</picture>
+<img src="assets/img/header_banner.png" width="100%" alt="🌊 Awesome Continual Test-Time Adaptation — Methods · Benchmarks · Future Directions">
 
 <br>
 
-<!-- Badges -->
 <p>
   <a href="https://arxiv.org/abs/2607.08164"><img src="https://img.shields.io/badge/📄_Paper-arXiv_2607.08164-b31b1b.svg?style=for-the-badge" alt="Paper"></a>
   <img src="https://img.shields.io/badge/🎉_Accepted-TMLR-2962FF.svg?style=for-the-badge" alt="Accepted to TMLR">
@@ -29,7 +24,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ## 📚 Table of Contents
 
@@ -66,7 +60,6 @@
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -88,7 +81,7 @@ Deep neural nets achieve remarkable performance when training and test data shar
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -133,7 +126,6 @@ Edge and embedded devices have limited memory and compute budgets. Adaptation st
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -183,7 +175,6 @@ We organize methods into **three main families**, based on *what* they adapt and
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -248,7 +239,6 @@ Key paradigms include **(1)** entropy minimization for confident predictions, **
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -285,7 +275,6 @@ Works focusing on estimating normalization layer statistics and adaptively selec
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -347,7 +336,6 @@ Methods that modify the model architecture — including teacher-student framewo
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -368,7 +356,6 @@ Methods that modify the model architecture — including teacher-student framewo
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -404,7 +391,6 @@ Methods that modify the model architecture — including teacher-student framewo
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -426,7 +412,6 @@ Methods that modify the model architecture — including teacher-student framewo
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -446,7 +431,6 @@ If you find this survey useful in your research, please consider citing:
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -464,16 +448,6 @@ We welcome new papers, implementations, and corrections!
 
 <br>
 
-<a href="https://star-history.com/#sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation&Date">
-  <img src="https://api.star-history.com/svg?repos=sarthaxxxxx/Awesome-Continual-Test-Time-Adaptation&type=Date" width="60%" alt="Star History">
-</a>
+<div align="center">
 
-</div>
-
-<br>
-
-<!-- Footer Wave -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%" alt="Footer">
-</picture>
+<img src="assets/img/footer_banner.png" width="100%" alt="Footer">
